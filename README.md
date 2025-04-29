@@ -116,7 +116,7 @@
     <li> 카테고리(전체, 고민, 토론, 자유), 정렬 기준(최신순, 인기순), 투표상태(전체, 진행, 종료), 검색어(제목, 해시태그, 내용)에 따라 검색 할 수 있습니다. </li>
     <li> 무한 스크롤 방식으로 게시물이 더 있다면 화면이 맨 밑에 닿으면 추가 게시물을 출력합니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/7e253021-92cf-4317-908f-1db8f72c046b)<br>
+ <img src="https://github.com/user-attachments/assets/7e253021-92cf-4317-908f-1db8f72c046b" alt=""> <br>
 </details>
 
 <details>
@@ -129,7 +129,8 @@
     <li>내용에 # 을 붙인 내용은 해시태그로 저장됩니다.</li>
     <li>글 작성이 완료되면 목록 페이지로 이동합니다. </li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/ca2bfa38-989d-491c-ab56-8111bb9b8d75)<br>
+ <img src="https://github.com/user-attachments/assets/ca2bfa38-989d-491c-ab56-8111bb9b8d75" alt="">
+  <br>
 
   <br>
   <strong>2. 글 상세페이지</strong>
@@ -138,7 +139,8 @@
     <li>‘투표하기’, ‘채팅’, ‘신고’ 는 로그인 회원만 가능하며, 로그인하지 않은 회원이 눌렀을 경우 로그인 페이지로 넘어갑니다.</li>
     <li>글 작성시 #를 붙인 글자는 초록색으로 보이며 해시태그가 붙은 글자를 누르면 해당 글자가 내용이 있는 목록들을 보여줍니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/86e63c70-bdf0-4338-a386-0dfb40ec3eed)<br>
+  <img src="https://github.com/user-attachments/assets/86e63c70-bdf0-4338-a386-0dfb40ec3eed" alt="">
+  <br>
 
   <br>
   <strong>3. 글 수정</strong>
@@ -146,7 +148,8 @@
     <li>글 작성자만 수정이 가능하며, 투표자가 있을 경우에는 수정이 불가합니다. </li>
     <li>수정 완료가 되면 상세페이지로 돌아갑니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/0e2ee8d3-fbea-4c83-8525-14a6c0452eb4)<br>
+  <img src="https://github.com/user-attachments/assets/0e2ee8d3-fbea-4c83-8525-14a6c0452eb4" alt="">
+  <br>
 
   <br>
   <strong>4. 글 삭제</strong>
@@ -154,7 +157,8 @@
     <li>글 작성자만 삭제가 가능하며, 투표자가 있을 경우에는 삭제가 불가합니다. </li>
     <li>삭제가 완료되면 목록(메인 페이지)로 이동합니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/c9230532-b075-4c17-ad96-1ecae865a32d)<br>
+  <img src="https://github.com/user-attachments/assets/c9230532-b075-4c17-ad96-1ecae865a32d" alt="">
+  <br>
   
 </details>
 
@@ -166,13 +170,17 @@
     <li>일반 사이트 회원가입은 없고 소셜 로그인 네이버, 카카오, 구글 로그인만 가능합니다.</li>
     <li>소셜가입 시 추가 정보를 받는 페이지로 넘어갑니다.</li>
   </ul>
-   ![Image](https://github.com/user-attachments/assets/8699a36d-d4d0-4452-b5a8-0a7e92d12a6b) <br>
+ <img src="https://github.com/user-attachments/assets/8699a36d-d4d0-4452-b5a8-0a7e92d12a6b" alt="">
+    <br>
    <hr>
-  ![Image](https://github.com/user-attachments/assets/9eba51a9-414e-4842-befc-afec6bcbf633)<br>
+ <img src="https://github.com/user-attachments/assets/9eba51a9-414e-4842-befc-afec6bcbf633" alt="">
+  <br>
   <hr>
-  ![Image](https://github.com/user-attachments/assets/3de15afa-6a55-4188-8df3-043b481a63f7)<br>
+ <img src="https://github.com/user-attachments/assets/3de15afa-6a55-4188-8df3-043b481a63f7" alt="">
+  <br>
   <hr>
-  ![Image](https://github.com/user-attachments/assets/6f3abf02-611e-4d2c-91ff-c4b8dc9acad1)<br>
+ <img src="https://github.com/user-attachments/assets/6f3abf02-611e-4d2c-91ff-c4b8dc9acad1" alt="">
+  <br>
  <br>
  
 </details>
@@ -185,7 +193,8 @@
     <li>정보(닉네임) 변경이 가능합니다.</li>
     <li>참여했던 게시활동(투표한 글, 작성한 글, 참여했던 채팅방)을 확인 가능합니다. </li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/0cb9ede8-d546-42af-aa39-c16df65e719c)<br>
+ <img src="https://github.com/user-attachments/assets/0cb9ede8-d546-42af-aa39-c16df65e719c" alt="">
+  <br>
 </details>
 
 <details>
@@ -195,7 +204,8 @@
   <ul>
     <li>금지 키워드, 회원 관리, 신고 글 관리를 합니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/f17ca9db-fd39-4ae5-8bfd-5539bbf17414)<br>
+ <img src="https://github.com/user-attachments/assets/f17ca9db-fd39-4ae5-8bfd-5539bbf17414" alt="">
+  <br>
 </details>
 
 <details>
@@ -206,8 +216,10 @@
     <li>게시글 상세페이지에서 오픈채팅방에 입장가능합니다. </li>
     <li>입장한 채팅방 목록들은 마이페이지에서 확인가능합니다.</li>
   </ul>
-  ![Image](https://github.com/user-attachments/assets/3154c076-676f-4550-b842-7969f2c700b0)<br><hr>
-  ![Image](https://github.com/user-attachments/assets/28d72336-2852-4ef3-8a7e-1a1d7dca1e2f)
+ <img src="https://github.com/user-attachments/assets/3154c076-676f-4550-b842-7969f2c700b0" alt="">
+  <br><hr>
+<img src="https://github.com/user-attachments/assets/28d72336-2852-4ef3-8a7e-1a1d7dca1e2f" alt="">
+ 
 </details>
 
 
