@@ -9,7 +9,7 @@
 * [사용 기술](#사용-기술)
   * [백엔드](#백엔드)
   * [프론트엔드](#프론트엔드)
-* [설계](#설계)
+* [설계](#구조-설계)
   * [DB 설계](#DB-설계)
   * [API 설계](#API-설계)
 * [개발내용](#개발내용)
@@ -59,41 +59,41 @@
 ## 구조 설계
 ### DB 설계
 * 사용자 테이블(테이블 명 : USERS) <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/2053f25a-7119-41c4-84a1-2a18f7c6f819)<br>
 * 게시물 테이블(테이블 명 : POSTS) <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/fb2e6875-bbcb-4c38-a8e9-6abc73e72da3)<br>
 * 투표 테이블(테이블 명 : VOTES)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/3361a89d-d4cc-4ac8-a21f-5aefc7e47849)<br>
 * 채팅방 테이블(테이블 명 : CHAT_ROOMS)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/9a541f39-5248-4e6a-85be-b7ebb1a565ee)<br>
 * 채팅 메세지 테이블(테이블 명 : CHAT_LOGS)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/922d266c-7ef9-4bbe-ad38-1ce5b37fb830)<br>
 * 스팸 테이블(테이블 명 : SPAM_FILTERS)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/6b9c3766-5b8c-4d60-a98e-4953af006a4e)<br>
 * 신고 테이블(테이블 명 : REPORTS)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/2b801814-1d33-4332-83f2-127ee4a6f56d)<br>
 * 이미지 테이블(IMGAGES)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/837dc93c-ab23-4a52-bd22-a70353823cf9)<br>
 
 ### API 설계
 * 로그인 & 회원가입<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/c83553f8-535f-4b46-b3fe-4d756dd66e54)<br>
 * 메인 페이지(투표 게시물 목록)<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/028dc67e-b622-404e-9741-792f8018e3df)<br>
 * 투표 게시판(crud) <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/39152f92-1f10-4a72-8f23-cacf3caad87c)<br>
 * 게시물 투표 & 신고<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/065bebde-d2f0-48ca-8493-cbc28436ad7e)<br>
 * 실시간 채팅<br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/124a2bf3-41e3-4a40-96a5-bfd0586702d1)<br>
 * 관리자 페이지 - 스팸 필터 관리 <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/7ea00e8c-87ee-4a5f-953b-333f32cf1494)<br>
 * 관리자 페이지 - 신고된 회원 관리 <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/b640eeb5-42be-4353-aa79-a0aa126f5f98)<br>
 * 관리자 페이지 -  신고된 글 관리 <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/a9e08ada-5f9b-4699-a055-ba931d3fa577)<br>
 * 마이 페이지 <br>
-이미지 넣기!<br>
+![Image](https://github.com/user-attachments/assets/d448b052-6d05-453a-b913-3e64a5929363)<br>
 
 ## 개발내용
 * Spring Security 회원가입 로그인
