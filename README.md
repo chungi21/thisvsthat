@@ -2,6 +2,7 @@
 > 이거저거 (This VS That) 는 사용자들이 다양한 고민을 쉽고 재미있게 해결할 수 있도록 돕는, 올인(All-in) 또는 올아웃(All-out) 방식의 투표 플랫폼입니다.<br>
 > 게시판 CRUD 기능을 기반으로 한 첫 번째 팀 프로젝트로, Spring Boot, JPA, JWT를 활용하여 개발하였고, 무한스크롤, JWT 기반 사용자 인증, GitHub 협업을 통해 팀원 간의 효율적인 개발 환경을 구축하였습니다.<br>
 > 기획자나 디자이너 없이 전원 개발자 구성으로 진행되었지만, 기획부터 디자인까지 팀원들이 함께 협업하며 전 과정을 직접 주도적으로 완성해낸 프로젝트입니다.<br>
+![Image](https://github.com/user-attachments/assets/7e253021-92cf-4317-908f-1db8f72c046b)
 
 ## 목차
 * [프로젝트 개요](#프로젝트-개요)
@@ -115,7 +116,7 @@
     <li> 카테고리(전체, 고민, 토론, 자유), 정렬 기준(최신순, 인기순), 투표상태(전체, 진행, 종료), 검색어(제목, 해시태그, 내용)에 따라 검색 할 수 있습니다. </li>
     <li> 무한 스크롤 방식으로 게시물이 더 있다면 화면이 맨 밑에 닿으면 추가 게시물을 출력합니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/7e253021-92cf-4317-908f-1db8f72c046b)<br>
 </details>
 
 <details>
@@ -128,7 +129,7 @@
     <li>내용에 # 을 붙인 내용은 해시태그로 저장됩니다.</li>
     <li>글 작성이 완료되면 목록 페이지로 이동합니다. </li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/ca2bfa38-989d-491c-ab56-8111bb9b8d75)<br>
 
   <br>
   <strong>2. 글 상세페이지</strong>
@@ -137,7 +138,7 @@
     <li>‘투표하기’, ‘채팅’, ‘신고’ 는 로그인 회원만 가능하며, 로그인하지 않은 회원이 눌렀을 경우 로그인 페이지로 넘어갑니다.</li>
     <li>글 작성시 #를 붙인 글자는 초록색으로 보이며 해시태그가 붙은 글자를 누르면 해당 글자가 내용이 있는 목록들을 보여줍니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/86e63c70-bdf0-4338-a386-0dfb40ec3eed)<br>
 
   <br>
   <strong>3. 글 수정</strong>
@@ -145,7 +146,7 @@
     <li>글 작성자만 수정이 가능하며, 투표자가 있을 경우에는 수정이 불가합니다. </li>
     <li>수정 완료가 되면 상세페이지로 돌아갑니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/0e2ee8d3-fbea-4c83-8525-14a6c0452eb4)<br>
 
   <br>
   <strong>4. 글 삭제</strong>
@@ -153,7 +154,7 @@
     <li>글 작성자만 삭제가 가능하며, 투표자가 있을 경우에는 삭제가 불가합니다. </li>
     <li>삭제가 완료되면 목록(메인 페이지)로 이동합니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/c9230532-b075-4c17-ad96-1ecae865a32d)<br>
   
 </details>
 
@@ -163,8 +164,17 @@
   <strong>회원가입 및 로그인</strong>
   <ul>
     <li>일반 사이트 회원가입은 없고 소셜 로그인 네이버, 카카오, 구글 로그인만 가능합니다.</li>
+    <li>소셜가입 시 추가 정보를 받는 페이지로 넘어갑니다.</li>
   </ul>
-  이미지 넣기!<br>
+   ![Image](https://github.com/user-attachments/assets/8699a36d-d4d0-4452-b5a8-0a7e92d12a6b) <br>
+   <hr>
+  ![Image](https://github.com/user-attachments/assets/9eba51a9-414e-4842-befc-afec6bcbf633)<br>
+  <hr>
+  ![Image](https://github.com/user-attachments/assets/3de15afa-6a55-4188-8df3-043b481a63f7)<br>
+  <hr>
+  ![Image](https://github.com/user-attachments/assets/6f3abf02-611e-4d2c-91ff-c4b8dc9acad1)<br>
+ <br>
+ 
 </details>
 
 <details>
@@ -175,7 +185,7 @@
     <li>정보(닉네임) 변경이 가능합니다.</li>
     <li>참여했던 게시활동(투표한 글, 작성한 글, 참여했던 채팅방)을 확인 가능합니다. </li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/0cb9ede8-d546-42af-aa39-c16df65e719c)<br>
 </details>
 
 <details>
@@ -185,7 +195,7 @@
   <ul>
     <li>금지 키워드, 회원 관리, 신고 글 관리를 합니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/f17ca9db-fd39-4ae5-8bfd-5539bbf17414)<br>
 </details>
 
 <details>
@@ -196,7 +206,8 @@
     <li>게시글 상세페이지에서 오픈채팅방에 입장가능합니다. </li>
     <li>입장한 채팅방 목록들은 마이페이지에서 확인가능합니다.</li>
   </ul>
-  이미지 넣기!<br>
+  ![Image](https://github.com/user-attachments/assets/3154c076-676f-4550-b842-7969f2c700b0)<br><hr>
+  ![Image](https://github.com/user-attachments/assets/28d72336-2852-4ef3-8a7e-1a1d7dca1e2f)
 </details>
 
 
