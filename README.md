@@ -121,15 +121,15 @@ This VS That (이거저거)은 사용자가 다양한 고민을 쉽고 재미있
 
 ## 개발내용
 * 회원 관리 및 인증
-  * Spring Security 기반 소셜 로그인(OAuth 2.0) 기능 구현
-  * JWT(Json Web Token) 기반 인증/인가 처리
+  * [Spring Security 기반 소셜 로그인(OAuth 2.0) 기능 구현](https://luckygirljinny.tistory.com/462)
+  * [JWT(Json Web Token) 기반 인증/인가 처리](https://luckygirljinny.tistory.com/463)
 * 게시판 기능
-  * 게시글 CRUD(생성, 조회, 수정, 삭제) 구현
-  * 게시판 목록 무한 스크롤(Infinite Scroll) 구현 (AJAX/비동기 처리)
-  * 게시판 파일 업로드 기능
-  * 게시판 검색 기능 (JPA 및 동적 쿼리 활용)
+  * [게시글 CRUD(생성, 조회, 수정, 삭제) 구현](https://luckygirljinny.tistory.com/464)
+  * [게시판 목록 무한 스크롤(Infinite Scroll) 구현 (AJAX/비동기 처리)](https://luckygirljinny.tistory.com/466)
+  * [게시판 파일 업로드 기능](https://luckygirljinny.tistory.com/465)
+  * [게시판 검색 기능 (JPA 및 동적 쿼리 활용)](https://luckygirljinny.tistory.com/468)
 * 데이터베이스 및 엔티티 관리
-  * Entity 연관관계 설정 (회원, 게시글, 채팅방, 채팅 메세지, 투표, 신고 관계 매핑 적용)
+  * [Entity 연관관계 설정 (회원, 게시글, 채팅방, 채팅 메세지, 투표, 신고 관계 매핑 적용)](https://luckygirljinny.tistory.com/467)
 * 실시간 기능
   * 웹소켓(WebSocket)을 이용한 실시간 채팅 기능 구현
 
